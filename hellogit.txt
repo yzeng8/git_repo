@@ -6,6 +6,6 @@
 6.Hello Git!!!
 7.Hello Git!!!
 8.Hello Git!!!
-9.Hello Git!!!
+9.Hello Git!!!  -- master branch test!!
 10.Hello Git!!!
 
